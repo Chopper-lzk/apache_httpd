@@ -1,0 +1,16 @@
+//
+// Created by kevin on 2022/11/2.
+//
+
+#ifndef HTTPSERVER_AP_MMN_H
+#define HTTPSERVER_AP_MMN_H
+
+#ifndef MODULE_MAGIC_NUMBER_MAJOR
+#define MODULE_MAGIC_NUMBER_MAJOR  20211221
+#endif
+
+#define MODULE_MAGIC_COOKIE 0x41503235UL /* "AP25" */
+
+#define MODULE_MAGIC_NUMBER_MINOR 8
+
+#endif //HTTPSERVER_AP_MMN_H

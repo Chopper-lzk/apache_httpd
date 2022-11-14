@@ -1,0 +1,3 @@
+/Users/kevin/httpserver/build/CMakeFiles/httpserver.dir
+/Users/kevin/httpserver/build/CMakeFiles/edit_cache.dir
+/Users/kevin/httpserver/build/CMakeFiles/rebuild_cache.dir
